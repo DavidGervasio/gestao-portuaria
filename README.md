@@ -29,4 +29,5 @@ reposicionamento, pesagem, scanner)<br>
 <br>
 <br>
 <h5> Instalação <br>
-<br> Após baixar o aplicativo vá até diretório raiz do projeto, via termial, e rode comando:  yarn start  </h5>
+<br> Após baixar o aplicativo vá até diretório raiz do projeto, via termial, e rode comando:  ./mvnw spring-boot:run
+ </h5>
